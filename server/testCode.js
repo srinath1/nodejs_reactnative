@@ -1,0 +1,8 @@
+
+DATABASE=mongodb+srv://mernreactnative:mernreactnative@graphqlnode.z5vfw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+JWT_SECRET=some_secret_letters_numbers
+SENDGRID_KEY=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
+EMAIL_FROM=srinath.erp@gmail.com
+CLOUDINARY_NAME=dtxrbtjpr
+CLOUDINARY_KEY=755852542824973
+CLOUDINARY_SECRET=LKOlK3yDoYrsb0jzIUguQ04lOBI
